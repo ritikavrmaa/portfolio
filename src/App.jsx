@@ -66,7 +66,7 @@ function App() {
 
         <ul>
           <li>
-            🎓 CSE IoT Student with CGPA 8.8 at Cambridge Institute of
+            🎓 CSE IoT Student with CGPA 9.0 at Cambridge Institute of
             Technology
           </li>
           <li>
